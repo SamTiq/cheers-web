@@ -241,7 +241,6 @@ h1{
   width: 100%;
 }
 
-
 .menu-icon:checked ~ .nav  ul li {
   pointer-events: auto;
   visibility: visible;
@@ -267,15 +266,15 @@ h1{
 
 .logo {
 	position: absolute;
-	top: 60px;
+	top: 30px;
 	left: 50px;
 	display: block;
 	z-index: 11;
 	transition: all 250ms linear;
 }
 .logo img {
-	height: 26px;
-	width: auto;
+	height: auto;
+	width: 7vw;
 	display: block;
 }
 
